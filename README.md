@@ -61,4 +61,6 @@ The dataset contains information about 200 properties in Pune, Maharashtra, Indi
 
 ● Model Inference Pipeline
 
+Project web link -  https://real-estate-valuation-2a3f7531dcfb.herokuapp.com/docs
+
 
